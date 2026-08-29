@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#ffd76a"/><stop offset=".5" stop-color="#d6a634"/><stop offset="1" stop-color="#fff0a8"/></linearGradient></defs>
+<g fill="none" stroke="url(#a)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M35 62h110l-10 79H45z"/><path d="M58 62c2-25 13-38 32-38s30 13 32 38"/><path d="M90 81v29M75 95h30"/>
+</g><text x="90" y="168" text-anchor="middle" fill="#f6d46d" font-family="Arial" font-weight="900" font-size="18">VDM</text>
+</svg>
